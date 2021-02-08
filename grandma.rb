@@ -12,7 +12,3 @@ elsif phrase == "I LOVE YOU GRANDMA!"
 else
 end
 end
-
-
-
-
